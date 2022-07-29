@@ -1,0 +1,9 @@
+# gitignore
+
+# ignore all latex generated files while compiling
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.out
